@@ -1,4 +1,4 @@
-# Infra Seed
+# AWS Basic Infra
 This project automates the infrastructure deployment of the application.
 
 ## Terraform States
